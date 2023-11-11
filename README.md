@@ -1,2 +1,2 @@
 # Portfolio
-Landing page of a personal portfolio
+This is a simple portfolio page using HTML and CSS.
